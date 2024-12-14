@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734121257 source:c:\users\dell\desktop\projet algo\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
